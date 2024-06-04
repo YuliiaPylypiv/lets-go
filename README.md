@@ -3,7 +3,8 @@
 
 ![alt text](<Screenshot 2024-06-03 at 4.15.36 PM (2).jpeg>)
 
-https://lets-go-team-13a0e9ed760a.herokuapp.com/
+
+Deployed application : https://lets-go-icet.onrender.com/
 
 
 
